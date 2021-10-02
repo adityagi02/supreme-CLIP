@@ -26,7 +26,7 @@
 ```$ tree
 supreme-CLIP
 ├── data
-│   ├── dataset_CLIP.pynb
+│   ├── dataset_CLIP.ipynb
 │   └── README.md
 │   
 │  
